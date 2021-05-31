@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+    <string name="hint_key">科目</string>
+    <string name="hint_value">点数</string>
+    <string name="insert">insert</string>
+    <string name="read">read</string>
+</resources>
